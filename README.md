@@ -2,7 +2,7 @@
 
 <ins>Shoes Instagram Redesign Concept UI with Flutter Framework</ins>
 
-![alt text](https://github.com/carminetotera/Images/blob/master/shoes-shop-ecommerce-flutter.png?raw=true)
+![alt text](https://github.com/carminetotera/Images/blob/master/instagram-redesign-concept-flutter.png?raw=true)
 
 Developed by Carmine Totera
 
