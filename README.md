@@ -1,16 +1,16 @@
-# ui_flutter_instagram_redisegn
+# Instagram Redesign Concept UI
 
-A new Flutter project.
+<ins>Shoes Instagram Redesign Concept UI with Flutter Framework</ins>
 
-## Getting Started
+![alt text](https://github.com/carminetotera/Images/blob/master/shoes-shop-ecommerce-flutter.png?raw=true)
 
-This project is a starting point for a Flutter application.
+Developed by Carmine Totera
 
-A few resources to get you started if this is your first Flutter project:
+Designed by PManoj Rajput for MindInventory
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Link Dribbble - Design Project: https://dribbble.com/shots/6349659-Instagram-redesign-concept
 
+---
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
