@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'FeedScreen.dart';
+import 'feed_screen.dart';
 
 void main() {
   runApp(MyApp());

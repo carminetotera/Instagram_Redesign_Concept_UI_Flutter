@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ui_flutter_instagram_residegn/model/comment.dart';
+import 'package:ui_flutter_instagram_redisegn/model/comment.dart';
 
 import 'model/post.dart';
 

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ui_flutter_instagram_residegn/ViewPostScreen.dart';
+import 'package:ui_flutter_instagram_redisegn/view_post_screen.dart';
 
 import 'model/post.dart';
 
