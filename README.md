@@ -1,6 +1,6 @@
 # Instagram Redesign Concept UI
 
-<ins>Instagram Redesign Concept UI with Flutter Framework</ins>
+<ins>Instagram Redesign Concept UI Made with Flutter</ins>
 
 ![alt text](https://github.com/carminetotera/Images/blob/master/instagram-redesign-concept-flutter.png?raw=true)
 
